@@ -1,3 +1,8 @@
+### Trello - React.
+
+A Trello like app with functionality to create tasks and categorize them in three different categories: To Do, In progress, and Done. The user can add and/or delete the tasks in each category as well as move the tasks among the categories according the their state with Drag and Drop functionality powered by [https://github.com/atlassian/react-beautiful-dnd](beautiful-dnd). The tasks, their categories, and their order are stored in a database powered by
+[https://cloud.appwrite.io/](AppWrite Cloud).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
