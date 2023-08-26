@@ -1,7 +1,25 @@
-### Trello - React.
+# Trello - React.
 
-A Trello like app with functionality to create tasks and categorize them in three different categories: To Do, In progress, and Done. The user can add and/or delete the tasks in each category as well as move the tasks among the categories according the their state with Drag and Drop functionality powered by [https://github.com/atlassian/react-beautiful-dnd](beautiful-dnd). The tasks, their categories, and their order are stored in a database powered by
+A Trello like app with functionality to create tasks and categorize them in three different categories: To Do, In progress, and Done. The user can add and/or delete the tasks in each category as well as move the tasks among the categories according the their state with Drag and Drop functionality powered by [beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd). The tasks, their categories, and their order are stored in a database powered by
 [https://cloud.appwrite.io/](AppWrite Cloud).
+
+See it: https://trello-react-psi.vercel.app/
+
+## Screenshots:
+
+<div align="center">
+  <img src="screenshots/Amazon2-react.jpg" alt="screenshot" width="700" style="width:700px;"/>
+</div>
+
+## Technologies:
+
+The following technologies, dependencies, and services were used to make this app:
+
+- ReactJS.
+- NextJS.
+- TailwindCSS.
+- [AppWrite Cloud](https://cloud.appwrite.io/). A secure open-source backend platform which provides a set of secure APIS, tools and a management console UI to help build apps quickly. Features used: database and file storage.
+- [React-Beautiful-DND](https://github.com/atlassian/react-beautiful-dnd). A beatiful and accessible drag and drop library for lists with React.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
