@@ -8,7 +8,7 @@ See it: https://trello-react-psi.vercel.app/
 ## Screenshots:
 
 <div align="center">
-  <img src="screenshots/Amazon2-react.jpg" alt="screenshot" width="700" style="width:700px;"/>
+  <img src="screenshots/Trello-React.jpg" alt="screenshot" width="700" style="width:700px;"/>
 </div>
 
 ## Technologies:
