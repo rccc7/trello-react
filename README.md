@@ -15,8 +15,9 @@ See it: https://trello-react-psi.vercel.app/
 - Drag and Drop functionality. The user can add and/or delete the tasks in each category as well as move the tasks among the categories according the their state with Drag and Drop functionality powered by [beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd).
 - Data persistence. The tasks, along with their categories and order are stored in a database powered by
   [https://cloud.appwrite.io/](AppWrite Cloud). Therefore, everytime the page is loaded, the app will retrieve the to-dos lists and their status in realtime from the database.
-- OenAI's ChatGPT integration. Throught [OpenAI API](https://platform.openai.com/) send the to-dos list to ChatGPT and ask to provide a brief summary of tasks count by category.
+- OenAI's ChatGPT integration. Through [https://platform.openai.com/](Open AI) send the to-dos list to ChatGPT and ask to provide a brief summary of tasks count by category.
 - State management powered by [Zustand](https://www.npmjs.com/package/zustand).
+- Search functionality. Search for a task and filter the todos lists in realtime as you type in the search box.
 
 ## Technologies:
 
